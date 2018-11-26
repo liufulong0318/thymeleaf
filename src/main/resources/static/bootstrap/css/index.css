@@ -1,0 +1,20 @@
+html, body{
+    height: 100%;
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+    }
+.container-fluid{
+    padding-right: 10%;
+    padding-left: 10%;
+}
+.navbar{
+    margin-bottom: 0px;
+    border: 0px;
+}
+.carousel-inner {
+    height: calc(100%  - 50px);
+}
+.navbar-default{
+    background-image: linear-gradient(to bottom, #fff 0%, #f8f8f8 100%);
+}

@@ -24,6 +24,6 @@ public class TestController {
         model.addAttribute("singlePerson",single);
         model.addAttribute("people",people);
 
-        return "index2";
+        return "index";
     }
 }
